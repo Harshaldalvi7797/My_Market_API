@@ -1,0 +1,63 @@
+const ALL_MODELS = {
+  admin: require("./../models/admin"),
+  permissions: require("./../models/permissions"),
+  role: require("./../models/role"),
+  ticketModel: require("./../models/ticket"),
+  brand: require("./../models/brand"),
+  customer: require('./../models/customer'),
+  customerNewsLetter: require('./../models/customerNewsLetter'),
+  customerAddress: require('./../models/customerAddress'),
+  category: require('./../models/category'),
+  question: require('./../models/productVariantQuestion'),
+  suggets: require('./../models/suggestIdea'),
+  recommendation: require('./../models/recommendation'),
+  orderModel: require('./../models/order'),
+  currency: require('./../models/currency'),
+  currencyDecimal: require('./../models/currencyDecimal'),
+  country: require('./../models/country'),
+  language: require('./../models/language'),
+  searchModel: require('./../models/searchModel'),
+  notifyModel: require("./../models/notify"),
+
+
+  customer_seller_follow: require('./../models/customerSellerFollow'),
+  wishlistModel: require('./../models/wishlist'),
+  seller: require('./../models/seller'),
+
+  subCategory: require('./../models/subCategory'),
+  productVarientReview: require('./../models/productVarientReview'),
+  product: require('./../models/product'),
+  detailsModel: require('../models/details'),
+  cartModel: require('./../models/cart'),
+  productVariant: require('./../models/productVariant'),
+  contactUs: require('../models/contactUs'),
+  subscribeModel: require("./../models/subscribeProduct"),
+  customerSellerMessaging: require('./../models/customerSellerMessaging'),
+
+  notification: require('./../models/notification'),
+  offerPricingItem: require('./../models/offerPricingItem'),
+  offerPricing: require('./../models/offerPricing'),
+  advertisingPricing: require('./../models/advertisingPricing'),
+  advertisementCampaign: require('./../models/advertisementCampaign'),
+  walletModel: require('./../models/wallet'),
+  couponModel: require('./../models/coupon'),
+  couponItemModel: require('./../models/couponItem'),
+  whatToPromoteModel: require('./../models/whatToPromote'),
+  //log controller
+  log: require('./log'),
+  countryModel: require('./../models/country'),
+  visitorsModel: require('./../models/visitors'),
+  reportModel: require('./../models/report'),
+  faqModel: require('./../models/faq'),
+
+  orderItems: require("./../models/orderItems"),
+  orderShippingNew: require("./../models/orderShipping"),
+  orderStatusUpdate: require("./../models/orderStatusUpdate"),
+  checkoutModel: require("./../models/checkout"),
+  settingModel: require("./../models/settings"),
+  advertiseanalyticsModel: require("./../models/advertiseAnalytics"),
+  merchantinvoiceModel: require("./../models/merchantInvoice"),
+  merchantinvoiceItemsModel: require("./../models/merchantInvoiceItems")
+}
+
+module.exports = ALL_MODELS;
