@@ -1,0 +1,447 @@
+{
+  "Sheet1": [
+    {
+      "English": "categoryName",
+      "undefined": "parentCategoryName",
+      "Arabic": "categoryName",
+      "300x300px": "categoryThumbnailFileName",
+      "1350x300px": "categoryCoverImageFileName",
+      "Leave empty for Top Level": "parentCategoryId",
+      "True / False": "parentCategory"
+    },
+    {
+      "English": "Men",
+      "undefined": "ملابس رجالية",
+      "Arabic": "رجالي",
+      "True / False": "TRUE"
+    },
+    {
+      "English": "Women",
+      "undefined": "ملابس نسائية ",
+      "Arabic": "نسائي",
+      "True / False": "TRUE"
+    },
+    {
+      "English": "Cosmetics & Personal Care",
+      "undefined": "مكياج، كريمات، زيوت، أجهزة الشعر والجسم، العطورات",
+      "Arabic": "مستحضرات التجميل والعناية الشخصية",
+      "True / False": "TRUE"
+    },
+    {
+      "English": "Children",
+      "undefined": "ملابس الأولاد والبنات والأطفال",
+      "Arabic": "الأطفال",
+      "True / False": "TRUE"
+    },
+    {
+      "English": "Electronics",
+      "undefined": "موبايلات وأجهزة التابلت، لابتوبات، كاميرات، مكبرات صوت، سماعات الرأس، ساعات ذكية، شواحن، اكسسوارات، ألعاب",
+      "Arabic": "الالكترونيات",
+      "True / False": "TRUE"
+    },
+    {
+      "English": "Home & Living",
+      "undefined": "سجاد، مرايات، براويز، مزهريات، شموع، جداريات، كتب",
+      "Arabic": "المنزل والمعيشة",
+      "True / False": "TRUE"
+    },
+    {
+      "English": "Tops",
+      "undefined": "Men",
+      "Arabic": "توبات",
+      "Leave empty for Top Level": "1"
+    },
+    {
+      "English": "Bottoms ",
+      "undefined": "Men",
+      "Arabic": "بناطيل وشورتات",
+      "Leave empty for Top Level": "1"
+    },
+    {
+      "English": "Coats & Jackets",
+      "undefined": "Men",
+      "Arabic": "المعاطف والجاكيتات",
+      "Leave empty for Top Level": "1"
+    },
+    {
+      "English": "Active Wear",
+      "undefined": "Men",
+      "Arabic": "لبس رياضي",
+      "Leave empty for Top Level": "1"
+    },
+    {
+      "English": "Swimwear",
+      "undefined": "Men",
+      "Arabic": "لبس سباحة",
+      "Leave empty for Top Level": "1"
+    },
+    {
+      "English": "Loungewear & Sleepwear",
+      "undefined": "Men",
+      "Arabic": "لبس المنزل والنوم",
+      "Leave empty for Top Level": "1"
+    },
+    {
+      "English": "Accessories",
+      "undefined": "Men",
+      "Arabic": "اكسسوارات",
+      "Leave empty for Top Level": "1"
+    },
+    {
+      "English": "Footwear",
+      "undefined": "Men",
+      "Arabic": "الأحذية",
+      "Leave empty for Top Level": "1"
+    },
+    {
+      "English": "Formal wear",
+      "undefined": "Men",
+      "Arabic": "لبس رسمي",
+      "Leave empty for Top Level": "1"
+    },
+    {
+      "English": "Tops",
+      "undefined": "Women",
+      "Arabic": "توبات",
+      "Leave empty for Top Level": "2"
+    },
+    {
+      "English": "Bottoms ",
+      "undefined": "Women",
+      "Arabic": "بناطيل وتنانير",
+      "Leave empty for Top Level": "2"
+    },
+    {
+      "English": "Active Wear",
+      "undefined": "Women",
+      "Arabic": "لبس رياضي",
+      "Leave empty for Top Level": "2"
+    },
+    {
+      "English": "Jackets & Coats",
+      "undefined": "Women",
+      "Arabic": "المعاطف والجاكيتات",
+      "Leave empty for Top Level": "2"
+    },
+    {
+      "English": "Swimwear",
+      "undefined": "Women",
+      "Arabic": "لبس سباحة",
+      "Leave empty for Top Level": "2"
+    },
+    {
+      "English": "Lounge wear & Sleepwear",
+      "undefined": "Women",
+      "Arabic": "لبس المنزل والنوم",
+      "Leave empty for Top Level": "2"
+    },
+    {
+      "English": "Accessories",
+      "undefined": "Women",
+      "Arabic": "اكسسوارات",
+      "Leave empty for Top Level": "2"
+    },
+    {
+      "English": "Footwear",
+      "undefined": "Women",
+      "Arabic": "الأحذية",
+      "Leave empty for Top Level": "2"
+    },
+    {
+      "English": "Dresses",
+      "undefined": "Women",
+      "Arabic": "فساتين",
+      "Leave empty for Top Level": "2"
+    },
+    {
+      "English": "Makeup",
+      "undefined": "Cosmetics & Personal Care",
+      "Arabic": "مستحضرات التجميل",
+      "Leave empty for Top Level": "3"
+    },
+    {
+      "English": "Face Care",
+      "undefined": "Cosmetics & Personal Care",
+      "Arabic": "العناية بالوجه",
+      "Leave empty for Top Level": "3"
+    },
+    {
+      "English": "Body Care",
+      "undefined": "Cosmetics & Personal Care",
+      "Arabic": "العناية بالجسم",
+      "Leave empty for Top Level": "3"
+    },
+    {
+      "English": "Hair Care",
+      "undefined": "Cosmetics & Personal Care",
+      "Arabic": "العناية بالشعر",
+      "Leave empty for Top Level": "3"
+    },
+    {
+      "English": "Fragrances",
+      "undefined": "Cosmetics & Personal Care",
+      "Arabic": "العطورات",
+      "Leave empty for Top Level": "3"
+    },
+    {
+      "English": "Boys",
+      "undefined": "Children",
+      "Arabic": "أولاد",
+      "Leave empty for Top Level": "4",
+      "True / False": "TRUE"
+    },
+    {
+      "English": "Girls",
+      "undefined": "Children",
+      "Arabic": "بنات",
+      "Leave empty for Top Level": "4",
+      "True / False": "TRUE"
+    },
+    {
+      "English": "Babies",
+      "undefined": "Children",
+      "Arabic": "الأطفال الرضع",
+      "Leave empty for Top Level": "4",
+      "True / False": "TRUE"
+    },
+    {
+      "English": "Tops",
+      "undefined": "Boys",
+      "Arabic": "توبات",
+      "Leave empty for Top Level": "27"
+    },
+    {
+      "English": "Bottoms ",
+      "undefined": "Boys",
+      "Arabic": "بناطيل وشورتات",
+      "Leave empty for Top Level": "27"
+    },
+    {
+      "English": "Coats & Jackets",
+      "undefined": "Boys",
+      "Arabic": "المعاطف والجاكيتات",
+      "Leave empty for Top Level": "27"
+    },
+    {
+      "English": "Active Wear",
+      "undefined": "Boys",
+      "Arabic": "لبس رياضي",
+      "Leave empty for Top Level": "27"
+    },
+    {
+      "English": "Swimwear",
+      "undefined": "Boys",
+      "Arabic": "لبس السباحة",
+      "Leave empty for Top Level": "27"
+    },
+    {
+      "English": "Loungewear & Sleepwear",
+      "undefined": "Boys",
+      "Arabic": "ملابس المنزل والنوم",
+      "Leave empty for Top Level": "27"
+    },
+    {
+      "English": "Accessories",
+      "undefined": "Boys",
+      "Arabic": "اكسسوارات",
+      "Leave empty for Top Level": "27"
+    },
+    {
+      "English": "Footwear",
+      "undefined": "Boys",
+      "Arabic": "الأحذية",
+      "Leave empty for Top Level": "27"
+    },
+    {
+      "English": "Formal wear",
+      "undefined": "Boys",
+      "Arabic": "لبس رسمي",
+      "Leave empty for Top Level": "27"
+    },
+    {
+      "English": "School",
+      "undefined": "Boys",
+      "Arabic": "المدرسة",
+      "Leave empty for Top Level": "27"
+    },
+    {
+      "English": "Tops",
+      "undefined": "Girls",
+      "Arabic": "توبات",
+      "Leave empty for Top Level": "28"
+    },
+    {
+      "English": "Bottoms ",
+      "undefined": "Girls",
+      "Arabic": "بناطيل وتنانير",
+      "Leave empty for Top Level": "28"
+    },
+    {
+      "English": "Active Wear",
+      "undefined": "Girls",
+      "Arabic": "لبس رياضي",
+      "Leave empty for Top Level": "28"
+    },
+    {
+      "English": "Jackets & Coats",
+      "undefined": "Girls",
+      "Arabic": "المعاطف والجاكيتات",
+      "Leave empty for Top Level": "28"
+    },
+    {
+      "English": "Swimwear",
+      "undefined": "Girls",
+      "Arabic": "لبس سباحة",
+      "Leave empty for Top Level": "28"
+    },
+    {
+      "English": "Lounge wear & Sleepwear",
+      "undefined": "Girls",
+      "Arabic": "ملابس المنزل والنوم",
+      "Leave empty for Top Level": "28"
+    },
+    {
+      "English": "Accessories",
+      "undefined": "Girls",
+      "Arabic": "اكسسوارات",
+      "Leave empty for Top Level": "28"
+    },
+    {
+      "English": "Footwear",
+      "undefined": "Girls",
+      "Arabic": "الأحذية",
+      "Leave empty for Top Level": "28"
+    },
+    {
+      "English": "Dresses",
+      "undefined": "Girls",
+      "Arabic": "فساتين",
+      "Leave empty for Top Level": "28"
+    },
+    {
+      "English": "School",
+      "undefined": "Girls",
+      "Arabic": "المدرسة",
+      "Leave empty for Top Level": "28"
+    },
+    {
+      "English": "Clothing",
+      "undefined": "Babies",
+      "Arabic": "ملابس الأطفال",
+      "Leave empty for Top Level": "30"
+    },
+    {
+      "English": "Baby needs",
+      "undefined": "Babies",
+      "Arabic": "لوازم الأطفال",
+      "Leave empty for Top Level": "30"
+    },
+    {
+      "English": "Baby Toys",
+      "undefined": "Babies",
+      "Arabic": "ألعاب الأطفال",
+      "Leave empty for Top Level": "30"
+    },
+    {
+      "English": "Baby sets",
+      "undefined": "Babies",
+      "Arabic": "أطقم الأطفال",
+      "Leave empty for Top Level": "30"
+    },
+    {
+      "English": "Mobiles & Tablets",
+      "undefined": "Electronics",
+      "Arabic": "الموبايلات والتابلت",
+      "Leave empty for Top Level": "5"
+    },
+    {
+      "English": "Laptops",
+      "undefined": "Electronics",
+      "Arabic": "لابتوبات",
+      "Leave empty for Top Level": "5"
+    },
+    {
+      "English": "Cameras",
+      "undefined": "Electronics",
+      "Arabic": "كاميرات",
+      "Leave empty for Top Level": "5"
+    },
+    {
+      "English": "Speakers",
+      "undefined": "Electronics",
+      "Arabic": "سماعات مكبرة للصوت",
+      "Leave empty for Top Level": "5"
+    },
+    {
+      "English": "Headphones",
+      "undefined": "Electronics",
+      "Arabic": "سماعات الرأس",
+      "Leave empty for Top Level": "5"
+    },
+    {
+      "English": "Smart Watches",
+      "undefined": "Apple, Samsung, Huawei",
+      "Arabic": "ساعات ذكية"
+    },
+    {
+      "English": "Chargers",
+      "undefined": "Electronics",
+      "Arabic": "شواحن",
+      "Leave empty for Top Level": "5"
+    },
+    {
+      "English": "Accessories",
+      "undefined": "Electronics",
+      "Arabic": "إكسسوارات",
+      "Leave empty for Top Level": "5"
+    },
+    {
+      "English": "Gaming",
+      "undefined": "Electronics",
+      "Arabic": "ألعاب",
+      "Leave empty for Top Level": "5"
+    },
+    {
+      "English": "Rugs",
+      "undefined": "Home & Living",
+      "Arabic": "سجاد",
+      "Leave empty for Top Level": "6"
+    },
+    {
+      "English": "Mirrors",
+      "undefined": "Home & Living",
+      "Arabic": "مرايات",
+      "Leave empty for Top Level": "6"
+    },
+    {
+      "English": "Frames",
+      "undefined": "Home & Living",
+      "Arabic": "براويز",
+      "Leave empty for Top Level": "6"
+    },
+    {
+      "English": "Vases",
+      "undefined": "Home & Living",
+      "Arabic": "مزهريات",
+      "Leave empty for Top Level": "6"
+    },
+    {
+      "English": "Candles",
+      "undefined": "Home & Living",
+      "Arabic": "شموع",
+      "Leave empty for Top Level": "6"
+    },
+    {
+      "English": "Wall Art",
+      "undefined": "Home & Living",
+      "Arabic": "جداريات",
+      "Leave empty for Top Level": "6"
+    },
+    {
+      "English": "Books",
+      "undefined": "Home & Living",
+      "Arabic": "كتب",
+      "Leave empty for Top Level": "6"
+    }
+  ]
+}

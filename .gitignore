@@ -1,0 +1,7 @@
+node_modules
+adminFiles
+log
+Log/
+test.js
+uploads
+*.txt
